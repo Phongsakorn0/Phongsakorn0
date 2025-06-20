@@ -4,7 +4,7 @@
 ### HI 👋 I'm Phongsakorn
 
 
-- 🌱 &nbsp;I'm 3rd year Computer Science student at Chulalongkorn University 
+- 🌱 &nbsp;I'm 4th year Computer Science student at Chulalongkorn University 
 - :computer: &nbsp;Connect with me on **[[LinkedIn](https://www.linkedin.com/in/phongsakorn-phimphongphaisan-711893326/)]**
 - 📫 How to reach me **pond.phongsakorn1654@gmail.com**
 - 📝 I am a beginner programmer, so please feel free to offer me any advice.
